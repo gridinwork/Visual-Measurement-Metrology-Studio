@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+logs/
+demo_videos/
+measurements/
+exports/
+screenshots/
+bin/*.dll
+_codec_test.mp4
+calibration/profiles/*.json
+!calibration/profiles/.gitkeep

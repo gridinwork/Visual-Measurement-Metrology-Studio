@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Bracket_A",
+    "nominal_width_mm": 82.0,
+    "nominal_height_mm": 46.5,
+    "width_upper_mm": 0.5,
+    "width_lower_mm": 0.5,
+    "height_upper_mm": 0.5,
+    "height_lower_mm": 0.5
+  }
+]
